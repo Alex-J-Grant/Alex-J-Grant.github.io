@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/writeups/test/</loc>
+    <loc>https://Alex-J-Grant.github.io/writeups/test/</loc>
     <lastmod>2025-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>https://Alex-J-Grant.github.io/</loc>
     <lastmod>2025-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/writeups/</loc>
+    <loc>https://Alex-J-Grant.github.io/writeups/</loc>
     <lastmod>2025-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

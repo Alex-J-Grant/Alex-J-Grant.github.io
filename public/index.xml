@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soapy Dog</title>
-    <link>/</link>
+    <link>https://Alex-J-Grant.github.io/</link>
     <description>Recent content on Soapy Dog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2025 Alex Grant</copyright>
-    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Figuring out hugo</title>
-      <link>/writeups/test/</link>
+      <link>https://Alex-J-Grant.github.io/writeups/test/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>/writeups/test/</guid>
+      <guid>https://Alex-J-Grant.github.io/writeups/test/</guid>
       <description></description>
       
     </item>
