@@ -10,8 +10,6 @@ title = "Soapy Dog"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "https://avatars.githubusercontent.com/u/143380454?v=4"
-  defaultAppearance = "light"
-  mainSections = ["writeups", "projects"]
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"

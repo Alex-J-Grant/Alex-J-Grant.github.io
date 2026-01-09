@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archive on Soapy Dog</title>
-    <link>https://Alex-J-Grant.github.io/archive/</link>
-    <description>Recent content in Archive on Soapy Dog</description>
+    <title>Feed on Soapy Dog</title>
+    <link>https://Alex-J-Grant.github.io/all/</link>
+    <description>Recent content in Feed on Soapy Dog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2026 Alex Grant</copyright>
-    <atom:link href="https://Alex-J-Grant.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Alex-J-Grant.github.io/all/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

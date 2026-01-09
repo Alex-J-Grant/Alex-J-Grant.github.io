@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soapy Dog</title>
+    <title>Writeups on Soapy Dog</title>
     <link>https://Alex-J-Grant.github.io/writeups/</link>
-    <description>Recent content on Soapy Dog</description>
+    <description>Recent content in Writeups on Soapy Dog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
