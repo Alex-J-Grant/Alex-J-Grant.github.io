@@ -9,14 +9,34 @@
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2026 Alex Grant</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Server,Ubuntu</title>
-      <link>https://Alex-J-Grant.github.io/tags/serverubuntu/</link>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Hardening</title>
+      <link>https://Alex-J-Grant.github.io/tags/hardening/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/tags/serverubuntu/</guid>
+      <guid>https://Alex-J-Grant.github.io/tags/hardening/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>https://Alex-J-Grant.github.io/tags/server/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
+      <guid>https://Alex-J-Grant.github.io/tags/server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SSH</title>
+      <link>https://Alex-J-Grant.github.io/tags/ssh/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
+      <guid>https://Alex-J-Grant.github.io/tags/ssh/</guid>
       <description></description>
       
     </item>
@@ -47,36 +67,6 @@
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
       <author>alexjamesgrant@gmail.com (Alex Grant)</author>
       <guid>https://Alex-J-Grant.github.io/tags/web/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hardening</title>
-      <link>https://Alex-J-Grant.github.io/tags/hardening/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/tags/hardening/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Server</title>
-      <link>https://Alex-J-Grant.github.io/tags/server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/tags/server/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SSH</title>
-      <link>https://Alex-J-Grant.github.io/tags/ssh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/tags/ssh/</guid>
       <description></description>
       
     </item>

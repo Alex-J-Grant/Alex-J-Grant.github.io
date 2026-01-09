@@ -4,7 +4,7 @@ description : "My experience hardening my linux home server"
 category : ['writeups']
 tags : ['Server,Ubuntu']
 date : 2025-10-22
-draft : false
+draft : True
 showAuthorBottom: true
 ---
 

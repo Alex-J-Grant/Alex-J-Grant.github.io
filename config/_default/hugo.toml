@@ -23,6 +23,15 @@ enableEmoji = true
 [pagination]
   pagerSize = 100
 
+
+[params.homepage]
+  layout = "background"
+  showRecent = true
+  recentLimit = 5
+  showMore = true
+  showMoreLink = "/archive/"
+
+
 [imaging]
   anchor = 'Center'
 

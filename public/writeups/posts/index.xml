@@ -2,33 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soapy Dog</title>
-    <link>https://Alex-J-Grant.github.io/writeups/posts/</link>
+    <link>http://localhost:1313/writeups/posts/</link>
     <description>Recent content on Soapy Dog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2026 Alex Grant</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/writeups/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Server Hardening</title>
-      <link>https://Alex-J-Grant.github.io/writeups/posts/server_hardening/</link>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/writeups/posts/server_hardening/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/writeups/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Figuring out hugo</title>
-      <link>https://Alex-J-Grant.github.io/writeups/posts/hugo_setup/</link>
+      <link>http://localhost:1313/writeups/posts/hugo_setup/</link>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <author>alexjamesgrant@gmail.com (Alex Grant)</author>
-      <guid>https://Alex-J-Grant.github.io/writeups/posts/hugo_setup/</guid>
+      <guid>http://localhost:1313/writeups/posts/hugo_setup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alex-J-Grant.github.io/writeups/posts/hugo_setup/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/posts/hugo_setup/featured.png" />
     </item>
     
   </channel>

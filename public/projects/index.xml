@@ -9,7 +9,37 @@
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2026 Alex Grant</copyright>
-    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home Server Project</title>
+      <link>https://Alex-J-Grant.github.io/projects/home_server/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
+      <guid>https://Alex-J-Grant.github.io/projects/home_server/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alex-J-Grant.github.io/projects/home_server/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Application Security Project</title>
+      <link>https://Alex-J-Grant.github.io/projects/app_sec_prj/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
+      <guid>https://Alex-J-Grant.github.io/projects/app_sec_prj/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alex-J-Grant.github.io/projects/app_sec_prj/featured.png" />
+    </item>
+    
+    <item>
+      <title>Clothing E-commerce shop(app development project)</title>
+      <link>https://Alex-J-Grant.github.io/projects/app_dev_prj/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <author>alexjamesgrant@gmail.com (Alex Grant)</author>
+      <guid>https://Alex-J-Grant.github.io/projects/app_dev_prj/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Alex-J-Grant.github.io/projects/app_dev_prj/featured.png" />
+    </item>
     
   </channel>
 </rss>

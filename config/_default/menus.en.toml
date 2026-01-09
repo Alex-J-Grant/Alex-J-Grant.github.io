@@ -11,21 +11,34 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  identifier = "writeups"
+  name = "Writeups"
+  pageRef = "writeups" # Looks for content/writeups
   weight = 10
+
+[[main]]
+  identifier = "projects"
+  name = "Projects"
+  pageRef = "projects" # Looks for content/projects
+  weight = 20
 
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 20
+  weight = 30
 
 
 [[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/Alex-J-Grant"
-  weight = 30
+  weight = 40
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/alexander-grant-378ba518a/"
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"

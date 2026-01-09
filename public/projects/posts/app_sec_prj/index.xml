@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Application Security Project on Soapy Dog</title>
-    <link>https://Alex-J-Grant.github.io/projects/posts/app_sec_prj/</link>
+    <link>http://localhost:1313/projects/posts/app_sec_prj/</link>
     <description>Recent content in Application Security Project on Soapy Dog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alexjamesgrant@gmail.com (Alex Grant)</managingEditor>
     <webMaster>alexjamesgrant@gmail.com (Alex Grant)</webMaster>
     <copyright>© 2026 Alex Grant</copyright>
-    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Alex-J-Grant.github.io/projects/posts/app_sec_prj/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/posts/app_sec_prj/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

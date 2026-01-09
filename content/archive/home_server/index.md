@@ -3,6 +3,7 @@ title : 'Home Server Project'
 description : "Making a home server and hardening it"
 category : ['projects']
 tags : ['hardening','server','SSH']
+date : 2026-01-03
 draft : false
 showAuthorBottom: true
 ---

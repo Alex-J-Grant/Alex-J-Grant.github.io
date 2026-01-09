@@ -9,7 +9,9 @@ title = "Soapy Dog"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = ""
+  logo = "https://avatars.githubusercontent.com/u/143380454?v=4"
+  defaultAppearance = "light"
+  mainSections = ["writeups", "projects"]
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -19,7 +21,7 @@ title = "Soapy Dog"
   email = "alexjamesgrant@gmail.com"
   image = "https://avatars.githubusercontent.com/u/143380454?v=4"
   imageQuality = 96
-  headline = "Im da soapy dawg"
+  headline = "Cyber Security student interested in ethical hacking"
   bio = "Cyber Security student looking to get into penetration testing."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -74,3 +76,4 @@ title = "Soapy Dog"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #   ]
+

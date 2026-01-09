@@ -3,61 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://Alex-J-Grant.github.io/projects/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alex-J-Grant.github.io/archive/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alex-J-Grant.github.io/archive/home_server/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alex-J-Grant.github.io/projects/home_server/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alex-J-Grant.github.io/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Alex-J-Grant.github.io/writeups/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Alex-J-Grant.github.io/writeups/posts/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Alex-J-Grant.github.io/writeups/posts/server_hardening/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Alex-J-Grant.github.io/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Alex-J-Grant.github.io/writeups/posts/hugo_setup/</loc>
+    <loc>https://Alex-J-Grant.github.io/archive/hugo_setup/</loc>
     <lastmod>2025-09-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Alex-J-Grant.github.io/projects/</loc>
+    <loc>https://Alex-J-Grant.github.io/writeups/hugo_setup/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Alex-J-Grant.github.io/archive/app_sec_prj/</loc>
     <lastmod>2025-07-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Alex-J-Grant.github.io/projects/posts/</loc>
+    <loc>https://Alex-J-Grant.github.io/projects/app_sec_prj/</loc>
     <lastmod>2025-07-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Alex-J-Grant.github.io/projects/posts/app_sec_prj/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Alex-J-Grant.github.io/projects/posts/app_dev_prj/</loc>
+    <loc>https://Alex-J-Grant.github.io/archive/app_dev_prj/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Alex-J-Grant.github.io/projects/posts/home_server/</loc>
+    <loc>https://Alex-J-Grant.github.io/projects/app_dev_prj/</loc>
+    <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
