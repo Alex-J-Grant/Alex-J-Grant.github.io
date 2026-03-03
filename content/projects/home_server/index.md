@@ -18,6 +18,7 @@ and as a learning tool for security regarding servers.
 - SSH Hardened
 - Firewall
 - Automatic backups every night
+- Cowrie Honey pot on default SSH port hosted on a docker container
 
 
 ### Things I learned Through this
@@ -25,3 +26,4 @@ and as a learning tool for security regarding servers.
 - Networking
 - Using IP Tables command to create a firewall
 - Using cronjobs to backup the servers data automatically
+- How to setup cowrie honeypots on docker
