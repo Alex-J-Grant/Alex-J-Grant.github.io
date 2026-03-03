@@ -95,7 +95,7 @@ sudo docker-compose up -d
 sudo docker-compose down
 ```
 
-When attackers get it by say ssh root@<your ip> they can do whatever but it wont be saved upon exiting and you can view the activity
+When attackers get it by say ssh root@` <your ip> ` they can do whatever but it wont be saved upon exiting and you can view the activity
 in cowrie/cowrie.json
 
 The file in user-files/ is for exporting to other software for analysis

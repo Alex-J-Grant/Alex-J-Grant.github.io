@@ -105,12 +105,15 @@
     <meta property="article:published_time" content="2025-10-22T00:00:00+00:00">
     <meta property="article:modified_time" content="2025-10-22T00:00:00+00:00">
     <meta property="article:tag" content="Server,Ubuntu">
+    <meta property="og:image" content="https://Alex-J-Grant.github.io/writeups/server_hardening/featured.jpg">
 
   
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://Alex-J-Grant.github.io/writeups/server_hardening/featured.jpg">
   <meta name="twitter:title" content="Server Hardening">
   <meta name="twitter:description" content="My experience hardening my linux home server">
-
+<meta name="twitter:image" content="https://Alex-J-Grant.github.io/writeups/server_hardening/featured.jpg">
+    <meta property="og:image" content="https://Alex-J-Grant.github.io/writeups/server_hardening/featured.jpg">
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
@@ -135,7 +138,7 @@
     "keywords": ["Server,Ubuntu"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "569"
+    "wordCount": "570"
   }]
   </script>
 
@@ -536,8 +539,12 @@
       
       
         
+    
+      <div
+        class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom"
+        style="background-image:url(/writeups/server_hardening/featured_hu_9e1f044cd3e1b870.jpg);"></div>
+    
   
-
       
     
 
@@ -598,7 +605,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-10-22T00:00:00&#43;00:00">22 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>569 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="2025-10-22T00:00:00&#43;00:00">22 October 2025</time><span class="px-2 text-primary-500">&middot;</span><span>570 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
     
 
     
@@ -719,7 +726,7 @@ sudo docker-compose up -d
 
 #to stop the container
 sudo docker-compose down
-</code></pre><p>When attackers get it by say ssh root@<your ip> they can do whatever but it wont be saved upon exiting and you can view the activity
+</code></pre><p>When attackers get it by say ssh root@<code>&lt;your ip&gt;</code> they can do whatever but it wont be saved upon exiting and you can view the activity
 in cowrie/cowrie.json</p>
 <p>The file in user-files/ is for exporting to other software for analysis</p>
 
